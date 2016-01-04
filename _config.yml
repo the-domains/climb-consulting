@@ -1,8 +1,5 @@
-layout_spectrum: 0.4684858
-typography_spectrum: 0.586743
 color:
   saturation: 0.08189322
-  lightness: 0.702003
   brandStrength: 0.7537258
   rhythmicContrast: 0.9944732
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  lightness: 0.702003
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.4684858
+typography_spectrum: 0.586743
 name: Climb Consulting
