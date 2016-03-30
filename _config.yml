@@ -1,6 +1,6 @@
 name: Climb Advisors
 favicon: null
-layout_spectrum: 0.97473
+layout_spectrum: 0.51897
 typography_spectrum: 0.586743
 collections:
   - index:
@@ -28,11 +28,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#5685b3'
-    - '#f98e7a'
-    - '#1d181e'
-    - '#52576d'
-    - '#fbc797'
+    - '#000000'
+    - '#e3ded8'
+    - '#a67c63'
+    - '#b4b4b4'
+    - '#53413d'
   brandStrength: 0.875
   lightness: 0.702003
   saturation: 0.08189322
