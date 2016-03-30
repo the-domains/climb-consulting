@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Our Business centers around making QuickBooks data accurate, reliable, and relevant through the following general QuickBooks offerings.'
-datePublished: '2016-03-30T22:32:09.867Z'
-dateModified: '2016-03-30T22:28:22.039Z'
+datePublished: '2016-03-30T22:37:10.181Z'
+dateModified: '2016-03-30T22:36:40.966Z'
 title: QUICKBOOKS SERVICES
 author: []
 sourcePath: _posts/2016-01-17-quickbooks-services.md
@@ -26,6 +26,8 @@ _type: Article
 
 Our Business centers around making QuickBooks data accurate, reliable, and relevant through the following general QuickBooks offerings.
 
+****
+
 **QuickBooks Setup**
 
 - You've just started your business or just started using QuickBooks and you notice that it isn't quite the "15 minutes and you're up and running" as advertised by Intuit. You're not alone, and Intuit knows that small business owners who work with a ProAdvisor have a far easier, happier, and less painful QuickBooks experience. We're here to listen to what you do in your business and translate it into an accounting system that runs with you.
@@ -38,3 +40,4 @@ Our Business centers around making QuickBooks data accurate, reliable, and relev
 
 - Even for those who use QuickBooks correctly, tricky transactions and time consuming processes can be fixed and made easier through regularly scheduled meetings by web conference or in person. Check-ups ensure that your accounting maintains accuracy, timeliness, and relevance to your business. This service creates a priority on prevention to mitigate errors and improve the reliability of your reporting.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8273dd4-c195-4f38-8c9d-2b7afe5e8b40.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e322c78-31fc-46a7-9c2c-a968bd10edd7.jpg)
