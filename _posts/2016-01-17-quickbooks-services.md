@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Our Business centers around making QuickBooks data accurate, reliable, and relevant through the following general QuickBooks offerings.'
-datePublished: '2016-03-30T22:37:10.181Z'
-dateModified: '2016-03-30T22:36:40.966Z'
+datePublished: '2016-03-30T22:38:17.140Z'
+dateModified: '2016-03-30T22:37:50.050Z'
 title: QUICKBOOKS SERVICES
 author: []
 sourcePath: _posts/2016-01-17-quickbooks-services.md
@@ -25,6 +25,7 @@ _type: Article
 # QUICKBOOKS SERVICES
 
 Our Business centers around making QuickBooks data accurate, reliable, and relevant through the following general QuickBooks offerings.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17c50711-f90e-48e9-942f-180821be57fe.jpg)
 
 ****
 
@@ -40,4 +41,3 @@ Our Business centers around making QuickBooks data accurate, reliable, and relev
 
 - Even for those who use QuickBooks correctly, tricky transactions and time consuming processes can be fixed and made easier through regularly scheduled meetings by web conference or in person. Check-ups ensure that your accounting maintains accuracy, timeliness, and relevance to your business. This service creates a priority on prevention to mitigate errors and improve the reliability of your reporting.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8273dd4-c195-4f38-8c9d-2b7afe5e8b40.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e322c78-31fc-46a7-9c2c-a968bd10edd7.jpg)
