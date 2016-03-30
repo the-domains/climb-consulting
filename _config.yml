@@ -1,3 +1,7 @@
+name: Climb Advisors
+favicon: null
+layout_spectrum: 0.06989247
+typography_spectrum: 0.586743
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.08189322
+  brandColors:
+    - '#1c2254'
+    - '#bdae8f'
+    - '#554859'
+    - '#797069'
+    - '#ca327a'
   brandStrength: 0.7616488
   lightness: 0.702003
-  brandColors:
-    - '#030302'
-    - '#9B874C'
-    - '#524C32'
-    - '#F7F7F7'
-    - '#FFE088'
+  saturation: 0.08189322
   rhythmicContrast: 0.9050179
-typography_spectrum: 0.586743
-layout_spectrum: 0.06989247
-name: Climb Consulting
+purpose: []
