@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Our Business centers around making QuickBooks data accurate, reliable, and relevant through the following general QuickBooks offerings.'
-datePublished: '2016-03-30T22:38:17.140Z'
-dateModified: '2016-03-30T22:37:50.050Z'
+datePublished: '2016-04-03T17:50:51.847Z'
+dateModified: '2016-03-30T22:38:24.002Z'
 title: QUICKBOOKS SERVICES
 author: []
 sourcePath: _posts/2016-01-17-quickbooks-services.md
