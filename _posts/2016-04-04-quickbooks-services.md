@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Our Business centers around making QuickBooks data accurate, reliable, and relevant through the following general QuickBooks offerings.'
-datePublished: '2016-04-04T23:14:10.666Z'
-dateModified: '2016-04-04T23:11:47.462Z'
+datePublished: '2016-04-04T23:15:49.577Z'
+dateModified: '2016-04-04T23:15:46.508Z'
 title: QUICKBOOKS SERVICES
 author: []
 sourcePath: _posts/2016-04-04-quickbooks-services.md
@@ -22,7 +22,7 @@ url: quickbooks-services/index.html
 _type: Article
 
 ---
-# QUICKBOOKS SERVICES
+Quickbooks Services
 
 Our Business centers around making QuickBooks data accurate, reliable, and relevant through the following general QuickBooks offerings.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12e6f7ca-1cd0-4096-9183-aa2f50dfaba5.jpg)
