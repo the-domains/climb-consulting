@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: RESOURCE
-datePublished: '2016-04-04T22:32:54.844Z'
-dateModified: '2016-04-04T22:32:14.803Z'
+datePublished: '2016-04-04T23:23:37.524Z'
+dateModified: '2016-04-04T22:35:59.378Z'
 title: Resources
 author: []
+sourcePath: _posts/2016-04-04-resources.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-resources.md
-published: true
 url: resources/index.html
 _type: Article
 
