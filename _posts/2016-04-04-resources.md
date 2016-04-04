@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: RESOURCE
-datePublished: '2016-04-04T23:35:43.545Z'
-dateModified: '2016-04-04T23:35:00.867Z'
+datePublished: '2016-04-04T23:38:36.374Z'
+dateModified: '2016-04-04T23:37:58.133Z'
 title: Resources
 author: []
 sourcePath: _posts/2016-04-04-resources.md
@@ -31,4 +31,7 @@ This is our resource page
 
 Here you can...
 
+[CC-Authorization][1]
+
 [0]: null
+[1]: https://thegrid.ai/climb-consulting/cc-authorization/
