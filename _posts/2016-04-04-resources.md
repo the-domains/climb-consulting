@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: RESOURCE
-datePublished: '2016-04-04T23:31:03.765Z'
-dateModified: '2016-04-04T23:28:35.879Z'
+datePublished: '2016-04-04T23:34:52.908Z'
+dateModified: '2016-04-04T23:31:12.915Z'
 title: Resources
 author: []
 sourcePath: _posts/2016-04-04-resources.md
