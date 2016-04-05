@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is our resource page
-datePublished: '2016-04-05T00:38:42.614Z'
-dateModified: '2016-04-05T00:38:36.769Z'
+datePublished: '2016-04-05T00:40:26.492Z'
+dateModified: '2016-04-05T00:40:13.213Z'
 title: Resources
 author: []
 sourcePath: _posts/2016-04-04-resources.md
