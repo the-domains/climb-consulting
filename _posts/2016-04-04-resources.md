@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: RESOURCES
-datePublished: '2016-04-05T00:02:23.665Z'
-dateModified: '2016-04-04T23:51:59.194Z'
-title: Resources
+description: This is our resource page
+datePublished: '2016-04-05T00:15:22.510Z'
+dateModified: '2016-04-05T00:14:52.350Z'
+title: RESOURCES
 author: []
 sourcePath: _posts/2016-04-04-resources.md
 published: true
@@ -22,10 +22,10 @@ url: resources/index.html
 _type: Article
 
 ---
-RESOURCES
+# RESOURCES
 
 This is our resource page
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94403d7c-8c1c-402a-bf00-cdcd0252c34e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34e9e046-9083-469b-b2aa-591d2c5e4668.jpg)
 
 [Get Started Now][0]
 
