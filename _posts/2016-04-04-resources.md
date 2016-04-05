@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is our resource page
-datePublished: '2016-04-05T16:16:01.740Z'
-dateModified: '2016-04-05T16:15:41.463Z'
+datePublished: '2016-04-05T16:21:43.684Z'
+dateModified: '2016-04-05T16:17:45.895Z'
 title: Resources
 author: []
 sourcePath: _posts/2016-04-04-resources.md
@@ -28,6 +28,8 @@ This is our resource page
 
 ****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0167b4d9-05b9-4028-9397-f9692e009a70.jpg)
+
+Moltes startups volen proporcionar un gran servei o producte que la gent compri i utilitzi. L'objectiu de moltes startups és: 1) demostrar que moltes persones B2C faran ús del que han construït i que trobaran el que han construït útil perquè ho recomanin a altres persones. 2) demostrar que els seus productes o serveis fan el que ells diuen que fan. 3) I per últim demostrar que empreses B2B estan disposades a invertir en els seus productes. Quan una startup dona evidencies d'aquest tres factors es diu que te
 
 Here you'll find:
 
