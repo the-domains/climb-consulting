@@ -4,8 +4,15 @@
         <description><![CDATA[Climb Advisors]]></description>
         <link>https://thegrid.ai/climb-consulting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 00:53:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 16:06:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/climb-consulting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Resources]]></title>
+            <description><![CDATA[<article><h1>Resources</h1><p>This is our resource page</p></article>]]></description>
+            <link>https://thegrid.ai/climb-consulting/resources/index.html</link>
+            <guid isPermaLink="false">677751cc-f036-47b7-b435-bd8cfeb9b66c</guid>
+            <pubDate>Tue, 05 Apr 2016 16:06:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Quickbooks Services]]></title>
             <description><![CDATA[<article><h1>Quickbooks Services</h1><p>Our Business centers around making QuickBooks data accurate, reliable, and relevant through the following general QuickBooks offerings.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12e6f7ca-1cd0-4096-9183-aa2f50dfaba5.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/climb-consulting/about-us/index.html</link>
             <guid isPermaLink="false">23272394-c3a4-423b-81e9-f716c5f54853</guid>
             <pubDate>Tue, 05 Apr 2016 00:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Resources]]></title>
-            <description><![CDATA[<article><h1>Resources</h1><p>This is our resource page</p></article>]]></description>
-            <link>https://thegrid.ai/climb-consulting/resources/index.html</link>
-            <guid isPermaLink="false">677751cc-f036-47b7-b435-bd8cfeb9b66c</guid>
-            <pubDate>Tue, 05 Apr 2016 00:43:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RATES]]></title>
