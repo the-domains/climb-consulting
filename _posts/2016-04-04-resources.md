@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is our resource page
-datePublished: '2016-04-05T16:15:36.343Z'
-dateModified: '2016-04-05T16:14:47.758Z'
+datePublished: '2016-04-05T16:16:01.740Z'
+dateModified: '2016-04-05T16:15:41.463Z'
 title: Resources
 author: []
 sourcePath: _posts/2016-04-04-resources.md
@@ -29,7 +29,6 @@ This is our resource page
 ****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0167b4d9-05b9-4028-9397-f9692e009a70.jpg)
 
-  
 Here you'll find:
 
 [Get Started Now][0]
