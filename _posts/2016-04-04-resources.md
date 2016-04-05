@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is our resource page
-datePublished: '2016-04-05T00:15:22.510Z'
-dateModified: '2016-04-05T00:14:52.350Z'
+datePublished: '2016-04-05T00:24:03.492Z'
+dateModified: '2016-04-05T00:23:13.469Z'
 title: RESOURCES
 author: []
 sourcePath: _posts/2016-04-04-resources.md
@@ -25,7 +25,9 @@ _type: Article
 # RESOURCES
 
 This is our resource page
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34e9e046-9083-469b-b2aa-591d2c5e4668.jpg)
+
+**Here you´ll find**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/198bbc0f-0f26-4e2c-b2b5-a3a1c4d8c7e3.jpg)
 
 [Get Started Now][0]
 
@@ -50,6 +52,7 @@ Here you can...
 [How are we doing?][5]
 
 Here you can...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efe469f5-577b-4205-b05f-f392f7d6a39c.jpg)
 
 [0]: https://thegrid.ai/climb-consulting/get-started-now/
 [1]: https://thegrid.ai/climb-consulting/cc-authorization/
