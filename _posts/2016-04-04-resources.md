@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: This is our resource page
-datePublished: '2016-04-05T00:43:04.746Z'
-dateModified: '2016-04-05T00:42:54.931Z'
+datePublished: '2016-04-05T16:06:17.989Z'
+dateModified: '2016-04-05T15:48:47.741Z'
 title: Resources
 author: []
 sourcePath: _posts/2016-04-04-resources.md
