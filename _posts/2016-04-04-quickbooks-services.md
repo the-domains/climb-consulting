@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Our Business centers around making QuickBooks data accurate, reliable, and relevant through the following general QuickBooks offerings.'
-datePublished: '2016-04-06T18:46:14.491Z'
-dateModified: '2016-04-06T18:44:53.863Z'
+datePublished: '2016-04-06T18:53:03.134Z'
+dateModified: '2016-04-06T18:47:14.681Z'
 title: Quickbooks Services
 author: []
 sourcePath: _posts/2016-04-04-quickbooks-services.md
@@ -24,10 +24,10 @@ _type: Article
 ---
 # Quickbooks Services
 
-Our Business centers around making QuickBooks data accurate, reliable, and relevant through the following general QuickBooks offerings.
-
 Moltes startups volen proporcionar un gran servei o producte que la gent compri i utilitzi. L'objectiu de moltes startups és: 1) demostrar que moltes persones B2C faran ús del que han construït i que trobaran el que han construït útil perquè ho recomanin a altres persones. 2) demostrar que els seus productes o serveis fan el que ells diuen que fan.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12e6f7ca-1cd0-4096-9183-aa2f50dfaba5.jpg)
+
+Our Business centers around making QuickBooks data accurate, reliable, and relevant through the following general QuickBooks offerings.
 
 **QuickBooks Setup**
 
