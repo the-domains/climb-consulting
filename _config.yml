@@ -1,4 +1,4 @@
-name: Climb Advisors
+name: Books-Smart
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.56003
@@ -14,6 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: BOOKS-SMART
 cta:
   domain: null
   bucket: null
