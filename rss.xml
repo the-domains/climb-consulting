@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Climb Advisors]]></title>
-        <description><![CDATA[Climb Advisors]]></description>
+        <title><![CDATA[BOOKS-SMART]]></title>
+        <description><![CDATA[BOOKS-SMART]]></description>
         <link>https://thegrid.ai/climb-consulting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 18:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 00:47:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/climb-consulting/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Quickbooks Services]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Wed, 06 Apr 2016 18:53:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Resources]]></title>
-            <description><![CDATA[<article><h1>Resources</h1><p>This is our resource page</p></article>]]></description>
-            <link>https://thegrid.ai/climb-consulting/resources/index.html</link>
-            <guid isPermaLink="false">677751cc-f036-47b7-b435-bd8cfeb9b66c</guid>
-            <pubDate>Wed, 06 Apr 2016 18:08:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ABOUT US]]></title>
             <description><![CDATA[<article><h1>ABOUT US</h1><p>This is the About Us page</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/079e1a0c-5902-436e-88b8-55dbc2ad2e40.jpg"></article>]]></description>
             <link>https://thegrid.ai/climb-consulting/about-us/index.html</link>
             <guid isPermaLink="false">23272394-c3a4-423b-81e9-f716c5f54853</guid>
-            <pubDate>Wed, 06 Apr 2016 18:26:04 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2016 00:46:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CONTACT US]]></title>
+            <description><![CDATA[<article><h1>CONTACT US</h1><p>Serving the greater Bay Area.  Working at your office, or remotely from mine (via web conference)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cfb48304b1cd3674f3e0680a3a0490394aa09497.png"></article>]]></description>
+            <link>https://thegrid.ai/climb-consulting/f6efbeb8-27f8-438a-b7ec-5e94fced08e0/index.html</link>
+            <guid isPermaLink="false">f6efbeb8-27f8-438a-b7ec-5e94fced08e0</guid>
+            <pubDate>Wed, 06 Apr 2016 18:41:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RATES]]></title>
@@ -35,11 +35,11 @@
             <pubDate>Wed, 06 Apr 2016 18:34:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CONTACT US]]></title>
-            <description><![CDATA[<article><h1>CONTACT US</h1><p>Serving the greater Bay Area.  Working at your office, or remotely from mine (via web conference)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cfb48304b1cd3674f3e0680a3a0490394aa09497.png"></article>]]></description>
-            <link>https://thegrid.ai/climb-consulting/f6efbeb8-27f8-438a-b7ec-5e94fced08e0/index.html</link>
-            <guid isPermaLink="false">f6efbeb8-27f8-438a-b7ec-5e94fced08e0</guid>
-            <pubDate>Wed, 06 Apr 2016 18:41:35 GMT</pubDate>
+            <title><![CDATA[Resources]]></title>
+            <description><![CDATA[<article><h1>Resources</h1><p>This is our resource page</p></article>]]></description>
+            <link>https://thegrid.ai/climb-consulting/resources/index.html</link>
+            <guid isPermaLink="false">677751cc-f036-47b7-b435-bd8cfeb9b66c</guid>
+            <pubDate>Wed, 06 Apr 2016 18:08:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
