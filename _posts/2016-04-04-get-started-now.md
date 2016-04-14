@@ -1,25 +1,27 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Start here
-datePublished: '2016-04-04T23:19:47.767Z'
-dateModified: '2016-04-04T23:19:32.356Z'
-title: Get Started Now
+description: GET STARTED NOW
+datePublished: '2016-04-14T01:18:41.820Z'
+dateModified: '2016-04-14T01:18:01.426Z'
+title: 'Get Started Now!'
 author: []
+sourcePath: _posts/2016-04-04-get-started-now.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-get-started-now.md
-published: true
 url: get-started-now/index.html
-_type: Blurb
+_type: WebPage
 
 ---
-GET STARTED NOW
+[GET STARTED NOW][0]
+
+[0]: null
