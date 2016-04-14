@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: This is our resource page
-datePublished: '2016-04-06T18:08:47.525Z'
-dateModified: '2016-04-06T17:41:17.029Z'
+description: CC-Authorization
+datePublished: '2016-04-14T01:17:02.853Z'
+dateModified: '2016-04-14T01:17:00.574Z'
 title: Resources
 author: []
 sourcePath: _posts/2016-04-04-resources.md
@@ -24,44 +24,25 @@ _type: Article
 ---
 # Resources
 
-Moltes startups volen proporcionar un gran servei o producte que la gent compri i utilitzi. L'objectiu de moltes startups és: 1) demostrar que moltes persones B2C faran ús del que han construït i que trobaran el que han construït útil perquè ho recomanin a altres persones. 2) demostrar que els seus productes o serveis fan el que ells diuen que fan.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0167b4d9-05b9-4028-9397-f9692e009a70.jpg)
-
-This is our resource page
-
-****
-
-Moltes startups volen proporcionar un gran servei o producte que la gent compri i utilitzi. L'objectiu de moltes startups és: 1) demostrar que moltes persones B2C faran ús del que han construït i que trobaran el que han construït útil perquè ho recomanin a altres persones. 2) demostrar que els seus productes o serveis fan el que ells diuen que fan. 3) I per últim demostrar que empreses B2B estan disposades a invertir en els seus productes. Quan una startup dona evidencies d'aquest tres factors es diu que te
-
-Here you'll find:
-
-[Get Started Now][0]
-
-Here you can...
+## [Get Started Now  ][0]
 
 [CC-Authorization][1]
 
-Here you can..
+[Web Conference Link][2]
 
-[W-9][2]
+[How are we doing?][3]
 
-Here you can...
+[W-9][4]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0167b4d9-05b9-4028-9397-f9692e009a70.jpg)
 
-[Web Conference Links][3]
+****
 
-Here you can...
+  
+  
 
-[Upload Data][4]
 
-Here you can...
-
-[How are we doing?][5]
-
-Here you can...
-
-[0]: https://thegrid.ai/climb-consulting/get-started-now/
-[1]: https://thegrid.ai/climb-consulting/cc-authorization/
-[2]: https://thegrid.ai/climb-consulting/w-9/
-[3]: https://thegrid.ai/climb-consulting/web-conference-links/
-[4]: https://thegrid.ai/climb-consulting/upload-data/
-[5]: https://thegrid.ai/climb-consulting/how-are-we-doing/
+[0]: http://www.forneycpa.com/getstartednow.html
+[1]: https://docs.google.com/forms/d/1kqzAO2yxF9c-gRa4KPF2C7f1SfuMG1L-CZXLUSdu9wg/viewform?formkey=dG90UWpvSmdmMGpEQ0RkSExLRkZxaHc6MQ#gid=0
+[2]: https://secure.join.me/adproadvisor
+[3]: https://www.surveymonkey.com/r/K276KYW?sm=idjIWypiKmadc6U3W4AMpA%3d%3d
+[4]: https://thegrid.ai/climb-consulting/w-9/
