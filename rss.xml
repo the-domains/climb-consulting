@@ -4,7 +4,7 @@
         <description><![CDATA[BOOKS-SMART]]></description>
         <link>https://thegrid.ai/climb-consulting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 01:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 01:17:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/climb-consulting/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Quickbooks Services]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/climb-consulting/quickbooks-services/index.html</link>
             <guid isPermaLink="false">67c147c9-b3fe-4270-ae41-0fe9f2270b00</guid>
             <pubDate>Thu, 14 Apr 2016 01:10:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Resources]]></title>
+            <description><![CDATA[<article><h1>Resources</h1><p>CC-Authorization</p></article>]]></description>
+            <link>https://thegrid.ai/climb-consulting/resources/index.html</link>
+            <guid isPermaLink="false">677751cc-f036-47b7-b435-bd8cfeb9b66c</guid>
+            <pubDate>Thu, 14 Apr 2016 01:17:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RATES]]></title>
@@ -45,13 +52,6 @@
             <link>https://thegrid.ai/climb-consulting/f6efbeb8-27f8-438a-b7ec-5e94fced08e0/index.html</link>
             <guid isPermaLink="false">f6efbeb8-27f8-438a-b7ec-5e94fced08e0</guid>
             <pubDate>Wed, 06 Apr 2016 18:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Resources]]></title>
-            <description><![CDATA[<article><h1>Resources</h1><p>This is our resource page</p></article>]]></description>
-            <link>https://thegrid.ai/climb-consulting/resources/index.html</link>
-            <guid isPermaLink="false">677751cc-f036-47b7-b435-bd8cfeb9b66c</guid>
-            <pubDate>Wed, 06 Apr 2016 18:08:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
